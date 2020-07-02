@@ -1,6 +1,6 @@
 <h1 text align='center'> 🗃️ Atividades Curso Banco de Dados </h1>
 
-Atividades referente ao contúdo aplicado no Curso de [Bancos de Dados SQL e NoSQL do básico ao avançado](https://www.udemy.com/course/curso-de-banco-de-dados-do-basico-ao-avancado/).
+Atividades de modelagem de banco de dados referente ao contúdo aplicado no Curso de [Bancos de Dados SQL e NoSQL do básico ao avançado](https://www.udemy.com/course/curso-de-banco-de-dados-do-basico-ao-avancado/).
 
 -----
 
